@@ -27,6 +27,13 @@ Branch 0
 		- Updated:
 			- README.txt
 		- Local repo changes on '0' and '1' pushed to remote repo 'origin'
+	- Version 0.3
+		- Added:
+			~ 'docs' Directory
+				~ For GitHub Pages deployment
+		- Copied:
+			~ /Theirs/. - Internal directory files copied to 'docs'
+		- Local repo changes on '0' pushed to remote repo 'origin'
 
 Branch 1
 	- Version 1.0
