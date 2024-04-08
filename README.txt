@@ -23,4 +23,7 @@ Branch 0
 
 Branch 1
 	- Version 1.0
-		
+		- Updated:
+			~ README.txt
+			~ script.js (Theirs)
+		- Merged into '0' (v0.2)
