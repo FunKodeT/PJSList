@@ -20,10 +20,17 @@ Branch 0
 					~ index.html (Resources)
 					~ styles.css (Resources)
 					~ script.js (Resources)
+	- MERGE: Version 1.0
+		- See 'Branch 1; Version 1.0' for version notes
+		
+	- Version 0.2
+		- Updated:
+			- README.txt
+		- Local repo changes on '0' and '1' pushed to remote repo 'origin'
 
 Branch 1
 	- Version 1.0
 		- Updated:
 			~ README.txt
 			~ script.js (Theirs)
-		- Merged into '0' (v0.2)
+		- Merged into '0'
